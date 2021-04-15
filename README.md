@@ -12,7 +12,6 @@
 </ul>
 
 <h3 align="left">Technologies & Tools</h3>
-
 <h5 align="left">Full Stack Web Development</h5>
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
@@ -26,9 +25,6 @@
  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql"/>
  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws"/>
-</p>
-<h5 align="left">Software Engineering</h5>
-<p align="left">
  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
  <img src="https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket"/>
