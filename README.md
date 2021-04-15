@@ -12,7 +12,6 @@
 </ul>
 
 <h3 align="left">Technologies & Tools</h3>
-<h5 align="left">Full Stack Web Development</h5>
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
@@ -31,7 +30,7 @@
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
  <img src="https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket"/>
 </p>
-<h5 align="left">Other Tools & Technologies</h5>
+<h5 align="left">Other Tools</h5>
 <p align="left">
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman"/>
