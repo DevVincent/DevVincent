@@ -5,12 +5,12 @@
 <img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
 
 <p align="left">
-I am a Junior Web Developer who is about to held a BSc Computer Science Degree. I enjoy using technologies like React and AWS (Amazon Web Services). <br/><br/>Currently, I am   finishing of my dissertation "Developing a Neural Network for the Foreign Exchange Market".
+I am a Junior Web Developer who is about to hold a BSc Computer Science Degree. I enjoy using technologies like React and AWS (Amazon Web Services). <br/><br/>I am currently finishing my dissertation project: "Developing a Neural Network for the Foreign Exchange Market".
 </p>
 
 <ul style="list-style:none" align="left">
   <li>My Portfolio is available here: <a href="vincentms.me">Portfolio</a></li>
-  <li>Let's connect! <a href="https://www.linkedin.com/in/vicente-manzano-a90864191/">LinkedIn</a></li>
+  <li>Let's connect!  <a href="https://www.linkedin.com/in/vicente-manzano-a90864191/">LinkedIn</a> </li>
 </ul>
 
 <h3 align="left">Tools & Technologies</h3>
