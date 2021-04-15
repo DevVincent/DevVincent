@@ -22,7 +22,7 @@ I am a Junior Web Developer who is about to hold a BSc Computer Science Degree. 
  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript"/>
  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
- <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux"/>
+ <img src="https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=663399"/>
  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
  <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express"/>
  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
