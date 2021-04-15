@@ -13,7 +13,7 @@ I am a Junior Web Developer who is about to hold a BSc Computer Science Degree. 
   <li>Let's connect!  <a href="https://www.linkedin.com/in/vicente-manzano-a90864191/">LinkedIn</a> </li>
 </ul>
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="left">Programming Languages & Technologies Known</h3>
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
