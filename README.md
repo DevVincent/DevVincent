@@ -32,6 +32,7 @@ I am a Junior Web Developer who is about to hold a BSc Computer Science Degree. 
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
  <img src="https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket"/>
 </p>
+
 <h5 align="left">Other Tools</h5>
 <p align="left">
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
