@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
 
 <p align="left">
-I am a Junior Web Developer who is about to hold a BSc Computer Science Degree. I enjoy using technologies like React and AWS (Amazon Web Services). <br/><br/>I am currently finishing my dissertation project: "Developing a Neural Network for the Foreign Exchange Market".
+I am a Junior Web Developer who holds a BSc Computer Science Degree. I enjoy using technologies like React and AWS (Amazon Web Services). <br/><br/>I am currently learning deep concepts regarding AWS.
 </p>
 
 <ul style="list-style:none" align="left">
