@@ -27,7 +27,7 @@ I am a Cloud Engineer who holds a 1st Class (Hons) BSc Computer Science Degree. 
  <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express"/>
  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql"/>
- <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform"/>
+ <img src="https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=663399"/>
  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws"/>
  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
