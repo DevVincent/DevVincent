@@ -5,7 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="180">
 
 <p align="left">
-I am a Junior Web Developer who holds a BSc Computer Science Degree. I enjoy using technologies like React and AWS (Amazon Web Services). <br/><br/>Serendipity
+I am a Cloud Engineer who holds a 1st Class (Hons) BSc Computer Science Degree. I enjoy using technologies like Terraform, Docker and AWS (Amazon Web Services). <br/><br/>Serendipity
 </p>
 
 <ul style="list-style:none" align="left">
@@ -13,7 +13,7 @@ I am a Junior Web Developer who holds a BSc Computer Science Degree. I enjoy usi
   <li>Let's connect!  <a href="https://www.linkedin.com/in/vicente-manzano-a90864191/">LinkedIn</a> </li>
 </ul>
 
-<h3 align="left">Programming Languages & Technologies Known</h3>
+<h3 align="left">Programming Languages & Technologies I Love</h3>
 <p align="left">
  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
@@ -27,10 +27,10 @@ I am a Junior Web Developer who holds a BSc Computer Science Degree. I enjoy usi
  <img src="https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express"/>
  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
  <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Terraform-blueviolet"/>
  <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws"/>
  <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/>
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
- <img src="https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket"/>
 </p>
 
 <h5 align="left">Other Tools</h5>
