@@ -40,5 +40,5 @@ I am a Cloud Engineer who holds a 1st Class (Hons) BSc Computer Science Degree. 
  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVincent&theme=algolia&langs_count=7&hide=javascript&layout=compact" width="32.5%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVincent&theme=algolia&langs_count=7&hide=css&hide=html&hide=scss&layout=compact" width="32.5%" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevVincent&show_icons=true&hide=contribs,issues&theme=algolia" width="50%"/>
